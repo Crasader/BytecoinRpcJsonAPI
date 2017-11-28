@@ -13,4 +13,8 @@ Features :
 
 Main advantage :
 
+<<<<<<< HEAD
     The private key will never be stored on the server, you can sleep tight.
+=======
+    The private key will never be stored on the server, you can sleep tight.
+>>>>>>> 22697776de16a61a3a2ecb7866259b9451e94324

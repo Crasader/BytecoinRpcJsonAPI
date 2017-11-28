@@ -1,0 +1,4 @@
+services:
+#    bytecoin_rpc_json_api.example:
+#        class: Bytecoin\RpcJsonAPIBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

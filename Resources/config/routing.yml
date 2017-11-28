@@ -1,0 +1,3 @@
+bytecoin_rpc_json_api_homepage:
+    path:     /
+    defaults: { _controller: BytecoinRpcJsonAPIBundle:Default:index }

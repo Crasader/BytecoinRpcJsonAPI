@@ -1,0 +1,30 @@
+{
+    "name" : "Bytecoin/RpcJsonAPIBundle",
+    "description" : "Symfony Bytecoin RPC Json API",
+    "type" : "library",
+    "authors" : [{
+        "name" : "Romain Bergery",
+        "email" : "app.toklio@gmail.com"
+    }],
+    "keywords" : [
+        "Bytecoin RPC JSON API"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Bytecoin\\RpcJsonAPIBundle" : ""
+        }
+    },
+    "target-dir" : "Bytecoin/RpcJsonAPIBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "1.0"
+        }
+    }
+}

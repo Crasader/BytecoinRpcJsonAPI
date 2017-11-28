@@ -10,7 +10,7 @@ Features :
 - Handle withdraw
 - Group withdraws to save fees
 - Sign transactions withdraws through the browser (Client-side with JavaScript, the private key & seed will never going through the network)
-
+ 
 Main advantage :
 
     The private key will never be stored on the server, you can sleep tight.
